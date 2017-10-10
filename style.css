@@ -1,0 +1,44 @@
+body {
+	background-color: orange;
+}
+
+.top {
+	height: 230px;
+}
+
+.content {
+	height: 400px;
+}
+
+#main {
+	background-color: white;
+	height: 100%;
+}
+
+#quoteSpace {
+	height: 80%;
+	padding: 25px;
+}
+
+#socialMedia {
+	height: 20%;
+	background-color: #ddeaff;
+}
+
+#quoteButton {
+	position: absolute;
+	bottom: 15px;
+	right: 40px;
+}
+
+.fa {
+	position: absolute;
+	bottom: 10px;
+	left: 40px;
+}
+a:hover {
+	text-decoration: none;
+}
+a:focus {
+	text-decoration: none;
+}
